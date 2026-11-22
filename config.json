@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "persistent-library-api",
+      "title": "Persistent Library API",
+      "description": "Build a persistent FastAPI catalog backed by SQLite database operations",
+      "path": "assignments/persistent-library-api",
+      "dueDate": "2026-11-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "main.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
